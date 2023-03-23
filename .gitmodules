@@ -8,3 +8,8 @@
 	url = https://github.com/s6sebusc/dualtrees
 	shallow = true
 	registered = true
+[submodule "sad"]
+	path = sad
+	url = https://github.com/cran/sad
+	shallow = true
+	registered = true
